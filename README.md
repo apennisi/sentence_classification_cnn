@@ -12,7 +12,7 @@ Inspired by the work of Yoon Kim <a href="https://arxiv.org/pdf/1408.5882.pdf" t
 
 Launch the script with the following command:
 ```bash
-python main.py --first_cat /path/to/the/first/category --second_cat /path/to/the/second/category --epochs number_of_epochs --n_batches number_of_sample_per_batch --lr learning_rate
+python main.py --first_cat /path/to/the/first/category --second_cat /path/to/the/second/category --epochs number_of_epochs --n_batches number_of_samples_per_batch --lr learning_rate
 ```
 Example:
 ```bash
